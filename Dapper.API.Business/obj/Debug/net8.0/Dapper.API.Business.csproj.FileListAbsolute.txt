@@ -1,0 +1,17 @@
+E:\Dapper\DapperProject\Dapper.API.Business\bin\Debug\net8.0\Dapper.API.Business.deps.json
+E:\Dapper\DapperProject\Dapper.API.Business\bin\Debug\net8.0\Dapper.API.Business.dll
+E:\Dapper\DapperProject\Dapper.API.Business\bin\Debug\net8.0\Dapper.API.Business.pdb
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.API.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.API.Business.AssemblyInfoInputs.cache
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.API.Business.AssemblyInfo.cs
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.API.Business.csproj.CoreCompileInputs.cache
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.API.Business.dll
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\refint\Dapper.API.Business.dll
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.API.Business.pdb
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\ref\Dapper.API.Business.dll
+E:\Dapper\DapperProject\Dapper.API.Business\bin\Debug\net8.0\Dapper.API.Models.dll
+E:\Dapper\DapperProject\Dapper.API.Business\bin\Debug\net8.0\Dapper.API.Repository.dll
+E:\Dapper\DapperProject\Dapper.API.Business\bin\Debug\net8.0\Dapper.API.Models.pdb
+E:\Dapper\DapperProject\Dapper.API.Business\bin\Debug\net8.0\Dapper.API.Repository.pdb
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.API.Business.csproj.AssemblyReference.cache
+E:\Dapper\DapperProject\Dapper.API.Business\obj\Debug\net8.0\Dapper.A.53E5D7CC.Up2Date

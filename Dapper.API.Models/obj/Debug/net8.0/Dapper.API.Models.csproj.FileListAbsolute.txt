@@ -1,0 +1,11 @@
+E:\Dapper\DapperProject\Dapper.API.Models\bin\Debug\net8.0\Dapper.API.Models.deps.json
+E:\Dapper\DapperProject\Dapper.API.Models\bin\Debug\net8.0\Dapper.API.Models.dll
+E:\Dapper\DapperProject\Dapper.API.Models\bin\Debug\net8.0\Dapper.API.Models.pdb
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\Dapper.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\Dapper.API.Models.AssemblyInfoInputs.cache
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\Dapper.API.Models.AssemblyInfo.cs
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\Dapper.API.Models.csproj.CoreCompileInputs.cache
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\Dapper.API.Models.dll
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\refint\Dapper.API.Models.dll
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\Dapper.API.Models.pdb
+E:\Dapper\DapperProject\Dapper.API.Models\obj\Debug\net8.0\ref\Dapper.API.Models.dll
