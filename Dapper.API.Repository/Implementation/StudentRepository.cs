@@ -25,6 +25,7 @@ namespace Dapper.API.Repository.Implementation
                 return students;
             }
         }
+
         public async Task<Student> GetByIdAsync(int Id)
         {
             using (IDbConnection dbConnection = this._dapperDBConnection.GetDBConnection())
