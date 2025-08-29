@@ -103,6 +103,5 @@ namespace Dapper.API.Controllers
                 throw;
             }
         }
-
     }
 }
